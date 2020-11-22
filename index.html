@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <form id="test_form">
+        <label for="input_name">Name: </label>
+        <input id="input_name" type="text">
+
+        <label for="input_age">Age: </label>
+        <input id="input_age" type="text">
+
+        <label for="input_pass">Password: </label>
+        <input id="input_pass" type="password">
+
+        <button id="btn_submit" type="submit">Submit</button>
+    </form>
+
+    <!-- this elements will simulate the corresponing API cal (fetch or axios for example) -->
+
+    <div id="div_api_data">
+        <!-- when submit or onSubmit is executed, we will put labels here to show the data  -->
+    </div>
+
+
+    <!-- we are not using css here  -->
+    <script src="./validate_input.js"></script>
+
+</body>
+
+
+</html>

@@ -1,10 +1,11 @@
 ![alt text](https://github.com/VirtualSoda369/validate_user_input/blob/main/images/portada_1.jpg?raw=true "Title")
 
-
-This will be a brief post about data validation.
-
 The image is from the painter John Atkinson Grimshaw
 and is called Shipping on the Clyde. year 1881 Oil on cardboard. 30.5 x 51 cm
+
+
+
+This will be a brief post about data validation.
 
 
 ![alt text](https://github.com/VirtualSoda369/validate_user_input/blob/main/images/imagen_1_post.png?raw=true "1")

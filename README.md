@@ -10,7 +10,7 @@ This will be a brief post about data validation.
 
 ![alt text](https://github.com/VirtualSoda369/validate_user_input/blob/main/images/imagen_1_post.png?raw=true "1")
 
-if you wanna know more about XSS check [THIS](https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/)
+If you wanna know more about XSS check [THIS](https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/)
 
 
 
@@ -30,6 +30,9 @@ If you wanna know more about HTML injection chech [THIS](https://www.softwaretes
 
 
 ![alt text](https://github.com/VirtualSoda369/validate_user_input/blob/main/images/imagen_5_post.png?raw=true "5")
+
+check [THIS LINK](https://stackoverflow.com/questions/58169889/creating-html-with-intentional-html-injection) to know more about why this works
+and [THIS LINK](https://stackoverflow.com/questions/1197575/can-scripts-be-inserted-with-innerhtml) for a semi related info
 
 
 ![alt text](https://github.com/VirtualSoda369/validate_user_input/blob/main/images/imagen_6_post.png?raw=true "6")
